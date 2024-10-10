@@ -318,7 +318,7 @@ const TypingEffect = () => {
                 <li><i className="bi bi-geo-alt" style={{marginRight:"10px"}}></i><strong>Location:</strong> Chikkamagaluru, Karnataka, India</li>
                 <li><i className="bi bi-linkedin" style={{marginRight:"10px"}}></i><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/bhoomika-cu/">LinkedIn Profile</a></li>
                 <li><i className="bi bi-github" style={{marginRight:"10px"}}></i><strong>GitHub:</strong> <a href="https://github.com/Bhoomika-CU">GitHub</a></li>
-                <li><i className="bi bi-file-earmark-text" style={{marginRight:"10px"}}></i><strong>Portfolio:</strong> <a href="https://bhoomika-shetty.com">Portfolio Website</a></li>
+                <li><i className="bi bi-file-earmark-text" style={{marginRight:"10px"}}></i><strong>Portfolio:</strong> <a href="https://bhoomikaportfoliio.netlify.app/">Portfolio Website</a></li>
               </ul>
             </div>
           </div>
