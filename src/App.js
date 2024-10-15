@@ -58,7 +58,7 @@ const TypingEffect = () => {
               <span className="navbar-toggler-icon"></span>
             </button>
             <div className="collapse navbar-collapse justify-content-end" id="navbar"style={{marginRight:'20px' }}>
-              <a className="nav-item nav-link active" href="#home"><span>Home</span></a>
+              <a className="nav-item nav-link active" href="#home" target='_blank'><span>Home</span></a>
               <a className="nav-item nav-link" href="#About">About Me</a>
               <a className="nav-item nav-link" href="#Skills">Skills</a>
               <a className="nav-item nav-link" href="#certificate">Certifications</a>
@@ -314,11 +314,11 @@ const TypingEffect = () => {
               <ul className="list-unstyled">
                 <li><i className="bi bi-person" style={{marginRight:"10px"}}></i><strong>Name:</strong> Bhoomika C U</li>
                 <li><i className="bi bi-telephone" style={{marginRight:"10px"}}></i><strong>Phone:</strong> +91-6361147158</li>
-                <li><i className="bi bi-envelope-open" style={{marginRight:"10px"}}></i><strong>Email:</strong> <a href="mailto:bhoomikashetty7182@gmail.com">bhoomikashetty7182@gmail.com</a></li>
+                <li><i className="bi bi-envelope-open" style={{marginRight:"10px"}}></i><strong>Email:</strong> <a href="mailto:bhoomikashetty7182@gmail.com" target='_blank'>bhoomikashetty7182@gmail.com</a></li>
                 <li><i className="bi bi-geo-alt" style={{marginRight:"10px"}}></i><strong>Location:</strong> Chikkamagaluru, Karnataka, India</li>
-                <li><i className="bi bi-linkedin" style={{marginRight:"10px"}}></i><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/bhoomika-cu/">LinkedIn Profile</a></li>
-                <li><i className="bi bi-github" style={{marginRight:"10px"}}></i><strong>GitHub:</strong> <a href="https://github.com/Bhoomika-CU">GitHub</a></li>
-                <li><i className="bi bi-file-earmark-text" style={{marginRight:"10px"}}></i><strong>Portfolio:</strong> <a href="https://bhoomikaportfoliio.netlify.app/">Portfolio Website</a></li>
+                <li><i className="bi bi-linkedin" style={{marginRight:"10px"}}></i><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/bhoomika-cu/" target='_blank'>LinkedIn Profile</a></li>
+                <li><i className="bi bi-github" style={{marginRight:"10px"}}></i><strong>GitHub:</strong> <a href="https://github.com/Bhoomika-CU" target='_blank'>GitHub</a></li>
+                <li><i className="bi bi-file-earmark-text" style={{marginRight:"10px"}}></i><strong>Portfolio:</strong> <a href="https://bhoomikaportfoliio.netlify.app/" target='_blank'>Portfolio Website</a></li>
               </ul>
             </div>
           </div>
